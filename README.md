@@ -46,6 +46,7 @@ ________________________________________
 • Power Query 
 • Dashboard Design
 • Data Visualization
+
 • Data Storytelling
 ________________________________________
 👨‍💻 Author 
