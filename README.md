@@ -24,6 +24,10 @@ ________________________________________
 
 ![Monthly Sales](Monthly%20Sales.png)
 
+ ### Customer Behaviour
+
+ ![Customer Behaviour](Customer%%20behaviour.png)
+
 
 
 🛠️ Tools & Technologies
