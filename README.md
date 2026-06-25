@@ -24,7 +24,7 @@ ________________________________________
 
  ### Customer Behaviour
  
-![Customer Behaviour](Images/Customer%20behaviour.png)
+![Customer Behaviour](Customer%20behaviour.png)
 
 
 🛠️ Tools & Technologies
