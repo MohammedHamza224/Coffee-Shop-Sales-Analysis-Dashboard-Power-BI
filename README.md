@@ -20,10 +20,9 @@ ________________________________________
 
 
 
+ ### Monthly Sales
 
-### Monthly Sales
-
-![Monthly Sales](Monthly_Sales.png)
+![Monthly Sales](Monthly%20Sales.png)
 
 
 
