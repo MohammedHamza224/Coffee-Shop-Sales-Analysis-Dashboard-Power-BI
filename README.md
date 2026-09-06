@@ -13,18 +13,22 @@ Peak Sales Hours Identification
 Weekday vs Weekend Performance Analysis
 ________________________________________
  ## Dashboard
-
 ### Overview
 
 ![Overview](Overview.png)
 
- ### Monthly Sales
+### Monthly Sales
 
 ![Monthly Sales](Monthly%20Sales.png)
 
- ### Customer Behaviour
- 
+### Customer Behaviour
+
 ![Customer Behaviour](Customer%20behaviour.png)
+
+### Details
+
+![Details](Images/Details.png)
+
 
 
  
