@@ -27,7 +27,7 @@ ________________________________________
 
 ### Details
 
-![Details](Images/Details.png)
+![Details](Images/Details%20.png)
 
 
 
